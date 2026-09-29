@@ -191,6 +191,12 @@
 
 Panel admin inclus ( menu staff avancé ) 
 
+<img width="1573" height="1000" alt="image" src="https://github.com/user-attachments/assets/38c046fa-47d7-406b-bd81-cc936b80b5cd" />
+
+<img width="1586" height="992" alt="image" src="https://github.com/user-attachments/assets/1cc333c5-3977-4a60-b712-6c4a3c072c05" />
+
+<img width="1585" height="992" alt="image" src="https://github.com/user-attachments/assets/a5070900-941e-4d62-9f5c-c569fb46cfe9" />
+
 System de Ban
 
 - Capture d'écran du joueur  ✅
@@ -212,3 +218,4 @@ Compatibility Only
 - NEW ESX Framework
 
 Preview: https://www.youtube.com/watch?v=RguM8URRXf0
+Discord: https://discord.com/invite/aZr7n7EnZN
