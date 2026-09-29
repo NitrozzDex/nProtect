@@ -1,10 +1,12 @@
 <div align="center">
 
-# 🛡️ nProtect Anti-Cheat | FiveM
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="https://media.discordapp.net/attachments/1344025781352927262/1554487394458406963/nprotect2027.png?ex=6abd10b3&is=6abbbf33&hm=8719457d92697cfb1831baa2d20798e94a20a0d285aaff52d565ef222a348140&=&format=webp&quality=lossless" alt="Logo" width="222">
+  <h1 style="margin: 0; border: none; font-size: 28px;">nProtect Anti-Cheat | FiveM</h1>
+</div>
 
 ![FiveM](https://img.shields.io/badge/FiveM-Resource-blue.svg)
-![Status](https://img.shields.io/badge/Status-Active%20%2F%20Production-success.svg)
-![License](https://img.shields.io/badge/License-Protected-red.svg)
+![Version](https://img.shields.io/badge/Version-4.3.5-green.svg)
 
 **La solution de sécurité ultime, ultra-complète et performante pour sécuriser votre serveur FiveM contre toutes les formes de triche et d'exploits.**
 
