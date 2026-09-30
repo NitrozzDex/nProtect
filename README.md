@@ -5,8 +5,8 @@
   <h1 style="margin: 0; border: none; font-size: 28px;">nProtect Anti-Cheat | FiveM</h1>
 </div>
 
-![FiveM](https://img.shields.io/badge/FiveM-Resource-blue.svg)
-![Version](https://img.shields.io/badge/Version-4.3.5-green.svg)
+![FiveM](https://img.shields.io/badge/FiveM-AntiCheat-blue.svg)
+![Version](https://img.shields.io/badge/Version-4.4.0-green.svg)
 
 **La solution de sécurité ultime, ultra-complète et performante pour sécuriser votre serveur FiveM contre toutes les formes de triche et d'exploits.**
 
