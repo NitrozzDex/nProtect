@@ -6,7 +6,7 @@
 </div>
 
 ![FiveM](https://img.shields.io/badge/FiveM-AntiCheat-blue.svg)
-![Version](https://img.shields.io/badge/Version-4.4.0-green.svg)
+![Version](https://img.shields.io/badge/Version-4.4.5-green.svg)
 
 **La solution de sécurité ultime, ultra-complète et performante pour sécuriser votre serveur FiveM contre toutes les formes de triche et d'exploits.**
 
@@ -64,7 +64,8 @@
 * Anti Carry Vehicles
 * Anti Voice Exploit
 * Anti Vehicle invisible
-* Anti shift boost vehicle
+* Anti shift/horn boost vehicle
+* Anti Tuning vehicle
 * Anti find trigger
 * Anti OCR Word
 * Anti injection
