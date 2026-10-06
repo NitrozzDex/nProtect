@@ -6,7 +6,7 @@
 </div>
 
 ![FiveM](https://img.shields.io/badge/FiveM-AntiCheat-blue.svg)
-![Version](https://img.shields.io/badge/Version-4.4.5-green.svg)
+![Version](https://img.shields.io/badge/Version-4.5.0-green.svg)
 
 **La solution de sécurité ultime, ultra-complète et performante pour sécuriser votre serveur FiveM contre toutes les formes de triche et d'exploits.**
 
