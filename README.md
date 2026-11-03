@@ -127,7 +127,6 @@
 * Anti stop resource *(only nProtect)*
 * Anti Name with special characters
 * Anti Spoof HWID
-* Anti Dump Resource
 * System Whitelist admin
 
 </details>
