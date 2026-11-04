@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="https://media.discordapp.net/attachments/1344025781352927262/1554487394458406963/nprotect2027.png?ex=6acd8b73&is=6acc39f3&hm=a5a860ede5a442367ca820f458863c4eab0e488da1d1d570396b4a4deac9fec3&=&format=webp&quality=lossless" alt="Logo" width="222">
+  <img src="https://dunb17ur4ymx4.cloudfront.net/packages/images/fb26fc334a94493c1e3ea708a8fd372b799419bb.png" alt="Logo" width="222">
   <h1 style="margin: 0; border: none; font-size: 28px;">nProtect Anti-Cheat | FiveM</h1>
 </div>
 
